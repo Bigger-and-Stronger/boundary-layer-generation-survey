@@ -4,7 +4,7 @@ Here is a list of related work and resources on boundary layer generation in CFD
 
 :clap: If you have any suggestions for improvements, please raise an issue or contact me.
 
-# Papers
+# :page_with_curl:Papers
 
 ## 2025
 - Hongfei Ye, Taoran Liu, Haonan Ni, Jianjun Chen. "**Robust full-layer prismatic mesh generation based on bijective mapping**". (Journal of Computational Physics, 2025) [[Paper]](https://www.sciencedirect.com/science/article/pii/S0021999125000270)
@@ -88,7 +88,7 @@ Here is a list of related work and resources on boundary layer generation in CFD
 - Y. Kallinderis, S. Ward. "**Prismatic grid generation for three-dimensional complex geometries**". (AIAA Journal, 1993) [[Paper]](https://arc.aiaa.org/doi/abs/10.2514/3.11858)
 - Timothy J. Baker. "**Automatic mesh generation for complex three-dimensional regions using a constrained Delaunay triangulation**". (Engineering with Computers, 1989) [[Paper]](https://link.springer.com/article/10.1007/BF02274210)
 
-# Some Resources
+# :surfer:Some Resources
 
 - High Lift Prediction Workshop (HLPW or HiLiftPW)
   - [1st AIAA CFD High Lift Prediction Workshop (HiLiftPW-1)](https://hiliftpw.larc.nasa.gov/index-workshop1.html) - June 26-27, 2010, Chicago, IL
@@ -96,3 +96,5 @@ Here is a list of related work and resources on boundary layer generation in CFD
   - [3rd AIAA CFD High Lift Prediction Workshop (HiLiftPW-3)](https://hiliftpw.larc.nasa.gov/index-workshop3.html) - June 3-4, 2017, Denver, Colorado, USA
   - [4th AIAA CFD High Lift Prediction Workshop (HLPW-4)](https://hiliftpw.larc.nasa.gov/index-workshop4.html) - January 7, 2022, San Diego, CA
   - [5th AIAA CFD High Lift Prediction Workshop (HLPW-5)](https://hiliftpw.larc.nasa.gov/index.html) - August 2-3, 2024, Las Vegas, Nevada, USA
+
+# :floppy_disk:Softwares
